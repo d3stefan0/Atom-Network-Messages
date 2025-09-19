@@ -80,5 +80,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 If you have questions, suggestions, or want to collaborate, you can reach out:
 
-- Discord: `discord.gg/atomnetwork`  
+
+- Discord: `discord.gg/atomnetwork`
+- Discord: `destefan0_`
 - Website: `play.atomnetwork.org`
