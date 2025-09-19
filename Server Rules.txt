@@ -1,0 +1,54 @@
+📜 AtomNetwork | Server Rules
+INGAME:
+Keep the chat nice, respectful and in English
+You are not allowed to have offensive usernames/skins
+Don't beg for free items, keyalls, etc
+Hacking and client modification that gives an unfair advantage are not allowed
+IRL trading is not allowed
+Abusing bugs and glitches will result in a permanent ban
+Do not create / bring your drama.
+Doxing / threating to dox is bannable (and illegal in some countries)
+Scamming with ingame is allowed, we won't refund you!!
+Scamming with real-life money (this includes trades via PayPal, bank transfers, but ALSO items which can be bought with real-life money, such as, but not limited to coins and kits) is NOT allowed
+Do not talk about conflicts/wars/politics in our server
+Advertising is not allowed
+Any kind of bug abusing or duplication glitches are not allowed.
+In the event that you get kicked due to another person trying to log in with your username, you will NOT get a refund. The solution for this is to simply purchase a genuine Minecraft account here
+Not more then 1 Alt is allowed for keyalls or afkzones
+You cannot use sphere trap on kothor anywhere else only in Box!!!
+
+DISCORD:
+Keep the chat nice, respectful and in English
+You are not allowed to have offensive usernames/nicknames/bio's
+Do not talk about conflicts/wars/politics in our server
+You have to follow Discord's TOS
+Modified clients are not allowed per the Discord TOS
+Advertising is not allowed
+Do not create / bring your drama.
+Refrain from pinging staff
+Doxing / threating to dox is bannable (and illegal in some countries) [We are allowed to ban players for doxing in dms!
+
+Extra RULES:
+Getting caught with Client = Permanent IP Ban!
+Having more than 2 Plots = 3 Days IP Ban!
+Plot blocking = 2 Days Ban!
+Bug Abuse = 3 Days Ban!
+AtomNetwork Server Policy
+
+JSON for Embed:
+
+{
+  "embeds": [
+    {
+      "title": "📜 AtomNetwork | Server Rules",
+      "description": "**INGAME**\n• Keep the chat nice, respectful and in English\n• You are not allowed to have offensive usernames/skins\n• Don't beg for free items, keyalls, etc\n• Hacking and client modification that gives an unfair advantage are not allowed\n• IRL trading is not allowed\n• Abusing bugs and glitches will result in a permanent ban\n• Do not create / bring your drama\n• Doxing / threatening to dox is bannable (and illegal in some countries)\n• Scamming with ingame is allowed, we won't refund you!\n• Scamming with real-life money (PayPal, bank transfers, items bought with real money such as coins/kits) is NOT allowed\n• Do not talk about conflicts/wars/politics in our server\n• Advertising is not allowed\n• Any kind of bug abusing or duplication glitches are not allowed\n• If you get kicked because someone tries to log in with your username, you won’t get a refund — buy a genuine account instead\n• No more than **1 alt** is allowed for keyalls or AFK zones\n• You cannot use sphere trap on KOTH or anywhere else — only in Box!\n\n**DISCORD**\n• Keep the chat nice, respectful and in English\n• Offensive usernames/nicknames/bios are not allowed\n• No conflicts/wars/politics discussions\n• Follow Discord's Terms of Service\n• Modified clients are not allowed per the Discord TOS\n• No advertising\n• Do not create or bring drama\n• Refrain from pinging staff unnecessarily\n• Doxing or threatening to dox is bannable (even in DMs)\n\n**Extra Rules**\n• Getting caught with a client = **Permanent IP Ban**\n• Having more than 2 plots = **3 Days IP Ban**\n• Plot blocking = **2 Days Ban**\n• Bug abuse = **3 Days Ban**",
+      "color": 3447003,
+      "thumbnail": {
+        "url": "https://your-image-link-here.png"
+      },
+      "footer": {
+        "text": "AtomNetwork Server Policy"
+      }
+    }
+  ]
+}
