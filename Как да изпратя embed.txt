@@ -1,0 +1,33 @@
+# Изпращане на JSON Embed с Discohook (Bulgarian) – Копирай и Постави
+
+1. **Копирайте JSON от GitHub**
+   - Отидете на [Atom-Network-Messages](https://github.com/d3stefan0/Atom-Network-Messages/tree/main)
+   - Отворете желания JSON файл (например `Rules.json`, `Poll.json`).
+   - Натиснете **Raw**, след това копирайте целия текст.
+
+2. **Отворете Discohook**
+   - Посетете [https://discohook.org/](https://discohook.org/).
+
+3. **Настройте Webhook за всеки канал**
+   - Отидете в канала на Discord, където искате embed.
+   - Отворете **Настройки на канала → Интеграции → Webhooks**.
+   - Ако вече има webhook, копирайте **Webhook URL**.  
+     Ако няма, създайте **Нов Webhook**, дайте име и копирайте URL.
+   - Поставете URL-то в полето **Webhook URL** на Discohook.
+
+4. **Изчистете старите данни**
+   - Натиснете **"Clear All"** в Discohook.
+
+5. **Поставете JSON**
+   - Натиснете **"Load" → "Paste JSON"**.
+   - Поставете копирания JSON от GitHub.
+   - Embedът ще се визуализира автоматично.
+
+6. **Изпратете Embed**
+   - Прегледайте embed-а.
+   - Натиснете **"Send Webhook"**, за да публикувате в избрания канал.
+
+7. **По избор: Съвети**
+   - Тествайте първо в тестов канал.
+   - Копирайте JSON с **"Copy JSON"** за повторна употреба.
+   - Повторете за всеки канал, където искате embeds.

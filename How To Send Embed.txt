@@ -1,0 +1,33 @@
+# Discord JSON Embed Sending with Discohook (English) – Copy & Paste
+
+1. **Copy JSON from GitHub**
+   - Go to [Atom-Network-Messages](https://github.com/d3stefan0/Atom-Network-Messages/tree/main)
+   - Open the desired JSON embed file (e.g., `Rules.json`, `Poll.json`).
+   - Click **Raw**, then copy all content to clipboard.
+
+2. **Open Discohook**
+   - Visit [https://discohook.org/](https://discohook.org/).
+
+3. **Set Up Webhook per Channel**
+   - Go to the Discord channel where you want the embed.
+   - Open **Channel Settings → Integrations → Webhooks**.
+   - If a webhook exists, copy its **Webhook URL**.  
+     If not, create a **New Webhook**, name it, and copy the URL.
+   - Paste the webhook URL into Discohook's **Webhook URL** field.
+
+4. **Clear Old Data**
+   - Click **"Clear All"** in Discohook.
+
+5. **Paste JSON**
+   - Click **"Load" → "Paste JSON"** in Discohook.
+   - Paste the JSON content from GitHub.
+   - The embed preview will appear automatically.
+
+6. **Send Embed**
+   - Preview your embed.
+   - Click **"Send Webhook"** to post in the selected channel.
+
+7. **Optional Tips**
+   - Test in a private channel first.
+   - Copy JSON with **"Copy JSON"** for reuse.
+   - Repeat for each channel you want to send embeds to.
